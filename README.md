@@ -14,3 +14,8 @@ Please be aware that this software compresses well, but not as heavily as, to ke
 using the same example, PNG Gauntlet would. If your goal is simply achieving the maximum
 compression, this tool is not for you. If you prefer speed and decent, but not the best
 compression, this tool is for you.
+
+
+
+The source code is the .py file. If you're not interested in that, you can just download the
+.exe file.
