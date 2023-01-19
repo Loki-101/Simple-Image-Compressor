@@ -1,4 +1,4 @@
-#Created by Seth Rotter
+#Created by Loki (loki@crazycoder.dev | Loki_101#3580)
 #Compresses png or jpg images from folder named "To Compress"
 #Outputs results to folder named "Compressed Images"
 
