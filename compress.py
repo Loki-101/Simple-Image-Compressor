@@ -1,4 +1,4 @@
-#Created by Loki (loki@crazycoder.dev | Loki_101#3580)
+#Created by Loki (loki@crazycoder.dev | loki_101)
 #Compresses png or jpg images from folder named "To Compress"
 #Outputs results to folder named "Compressed Images"
 
